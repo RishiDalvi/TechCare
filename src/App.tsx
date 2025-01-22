@@ -9,7 +9,7 @@ import type { UserRole } from './types';
 const featuredDoctors = [
   {
     id: '1',
-    name: 'Dr. Rushi Dalvi',
+    name: 'Dr. Rushi Dalvi Patil',
     specialty: 'Cardiology',
     image: 'https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=500',
     availability: {}
